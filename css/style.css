@@ -837,6 +837,10 @@ ol {
   min-width: 100%;
 }
 
+.about-img img {
+  width: 210px;
+  height: 140px;
+}
 /*---------------------
   Footer
 -----------------------*/
